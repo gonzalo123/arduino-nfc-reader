@@ -40,6 +40,6 @@ node node/server.js
 # Demo
 [![Validate NFC tags against node TCP server with arduino ](http://img.youtube.com/vi/hV4BeSx0Kw4/0.jpg)](https://www.youtube.com/watch?v=hV4BeSx0Kw4)
 # References:
-https://www.luisllamas.es/arduino-rfid-mifare-rc522/
-http://hetpro-store.com/TUTORIALES/modulo-lector-rfid-rc522-rf-con-arduino/
-https://forum.arduino.cc/index.php?topic=198768.0
+* https://www.luisllamas.es/arduino-rfid-mifare-rc522/
+* http://hetpro-store.com/TUTORIALES/modulo-lector-rfid-rc522-rf-con-arduino/
+* https://forum.arduino.cc/index.php?topic=198768.0
