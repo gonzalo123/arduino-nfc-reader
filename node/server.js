@@ -1,7 +1,7 @@
 var net = require('net');
 
 var LOCAL_PORT = 28001;
-var validTags = ['D3C86AD9'];
+var validTags = ['X3C86AD9'];
 
 var validateTag = function(tag) {
     return validTags.indexOf(tag) > -1;
